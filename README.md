@@ -11,7 +11,7 @@ cript-vulscan配置参考：https://www.jianshu.com/p/3bc47bb361f8</br>
 
 1. Finger_os.py:</br>
 >>> 该文件是用来探测操作系统的，其中有一种是基于nmap修改的扫描探测方式。另一种是基于ttl的探测。默认是ttl	的。（配置：需要修改nmap_os_db的位置>>> 为本机的相应的位置）</br>
->> Scanport.py：</br>
+2. Scanport.py：</br>
 >>> 该文件是用来探测开放端口信息的</br>
 >> Ip_bug.py：</br>
 >>> 该文件是用来探测常见的漏洞的。（需要配置script-vulscan）</br>

@@ -29,3 +29,5 @@ cript-vulscan配置参考：https://www.jianshu.com/p/3bc47bb361f8</br>
 >>> 该文件是实现UI界面</br>
 10. Main.py：</br>
 >>> 主函数的执行入口</br>
+
+该项目在实现上还有很多的不足和缺陷，在后面如果有时间的话还是会继续完善的
